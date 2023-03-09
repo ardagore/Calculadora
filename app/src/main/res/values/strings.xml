@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="inicio_logo_png">inicio_logo</string>
+    <string name="elige">Elige tu operacion</string>
+    <string name="suma">| Suma</string>
+    <string name="resta">| Resta</string>
+    <string name="division">| Division</string>
+    <string name="multiplicacion">| Multiplicacion</string>
+    <string name="salir">Salir</string>
+</resources>
